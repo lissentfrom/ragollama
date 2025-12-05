@@ -1,1 +1,1 @@
-Initial try to use Ollama for on-premise RAG
+Follow an example, initial try to use Ollama for on-premise RAG
